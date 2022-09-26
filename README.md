@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bfrancd236&row=1&column=7&theme=oldie" alt="bfrancd236" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **Estudo de Automação por UiPath**
+- 🔭 Atualmente estou trabalhando na **IBM** como desenvolvedor RPA.
 
 - 📫 How to reach me **Franciscoguedesnetto@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Francisco Guedes</h1>
-<h3 align="center">Sou desenvolvedor web full-stack apaixonado pela tecnologia e pelo Etichal Hacking, programando com paixão em PHP & REACT, se encaminhando para a automação através do UiPath.</h3>
+<h3 align="center">Sou Desenvolvedor RPA e Desenvolvedor BAW</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bfrancd236&label=Profile%20views&color=0e75b6&style=flat" alt="bfrancd236" /> </p>
 

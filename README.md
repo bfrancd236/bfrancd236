@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-👨🏻‍💻 Sou apaixonado por tecnologia<br>💥 Sou especialista em soluções de B.O<br>🌐 Sou um grande pesquisador, não sei? me dê alguns minutos<br>💬 Sou especialista comunicativo<br>☕ Sou um gerador de conteúdo do mundo de hiperautomações<br>🌍 Sou um grande visionário, objeto é dominar o mundo<br>🎮 Sou apaixonado por games<br> ♟️ Sou uma peça fundamento em uma equipe 
+👨🏻‍💻 Sou apaixonado por tecnologia<br>💥 Sou especialista em soluções de B.O<br>🌐 Sou um grande pesquisador, não sei? me dê alguns minutos<br>💬 Sou especialista comunicativo<br>☕ Sou um gerador de conteúdo do mundo de hiperautomações<br>🌍 Sou um grande visionário, objetivo é dominar o mundo<br>🎮 Sou apaixonado por games<br> ♟️ Sou uma peça fundamento em uma equipe 
 
 
 ## 🌐 Socials:
